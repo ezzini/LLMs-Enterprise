@@ -15,7 +15,7 @@
 
 Repository Link: [https://github.com/ezzini/LLMs-Enterprise](https://github.com/ezzini/LLMs-Enterprise)
 
-## Systematic Literature Review Methodology (Transferred from Paper)
+## Systematic Literature Review Methodology
 
 ### Inclusion Criteria:
 - Studies showing implementation details of chatbots using RAG technology.
@@ -43,7 +43,7 @@ Repository Link: [https://github.com/ezzini/LLMs-Enterprise](https://github.com/
 6. Is security mentioned?
 7. Does the author state the limitations explicitly?
 
-## Quality Assessment & Research Questions Addressed (Table 3)
+## Quality Assessment & Research Questions Addressed
 
 | Index | Study Title | Quality Score (/7) | Research Questions Addressed | Full Reference Citation |
 | :---: | :--- | :---: | :---: | :--- |
