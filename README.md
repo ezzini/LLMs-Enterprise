@@ -43,6 +43,14 @@ Repository Link: [https://github.com/ezzini/LLMs-Enterprise](https://github.com/
 6. Is security mentioned?
 7. Does the author state the limitations explicitly?
 
+## Threats to Validity
+
+We discuss four categories of threat that are specific to this review and the mitigations adopted:
+- **Internal Validity (Selection & Extraction Bias):** The search string is enterprise-oriented, which may under-sample purely security-theoretic papers. We mitigated this by comparing the corpus against external threat catalogues and employing independent two-author screening (average Cohen's $\kappa = 0.78$ [McHugh, 2012]).
+- **External Validity (Generalisability):** Healthcare studies are strongly represented while SAP-specific studies are rare. We do not claim universal generalisability and explicitly report the application domain alongside each claim.
+- **Construct Validity (Quality Scoring):** The 7-item quality instrument is binary and assigns equal weight. We mitigated this coarse granularity by publishing the full per-study scores online to allow custom re-weighting.
+- **Conclusion Validity (Synthesis Bias):** As the synthesis is narrative, weighting is qualitative. We mitigated this by strictly mapping each aggregate claim to its supporting studies.
+
 ## Quality Assessment & Research Questions Addressed
 
 | Index | Study Title | Quality Score (/7) | Research Questions Addressed | Full Reference Citation |
