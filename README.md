@@ -3,6 +3,16 @@
 ### Reference Paper Citation
 > **Fatimah Alali, Haya Aldawsari, Saad Ezzini, and Sajjad Mahmood. (2026). "LLMs in the Enterprise: A Systematic Review of Security Architectures for RAG-Augmented Chatbots." In Proceedings of the NLPAICS 2026.**
 
+### BibTeX Citation
+```bibtex
+@inproceedings{alali2026llms,
+  title={LLMs in the Enterprise: A Systematic Review of Security Architectures for RAG-Augmented Chatbots},
+  author={Alali, Fatimah and Aldawsari, Haya and Ezzini, Saad and Mahmood, Sajjad},
+  booktitle={Proceedings of the Conference on Natural Language Processing and Artificial Intelligence for Cybersecurity (NLPAICS)},
+  year={2026}
+}
+```
+
 Repository Link: [https://github.com/ezzini/LLMs-Enterprise](https://github.com/ezzini/LLMs-Enterprise)
 
 ## Systematic Literature Review Methodology (Transferred from Paper)
